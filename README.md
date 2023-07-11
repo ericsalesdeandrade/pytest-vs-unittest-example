@@ -1,11 +1,16 @@
-# PyTest vs Unittest Example
+# Unittest vs Pytest (Review Of The 2 Most Popular Python Testing Frameworks)
 
-<!-- This repo contains the sample code for the article - [How to Use Hypothesis and Pytest for Robust Property-Based Testing in Python](https://pytest-with-eric.com/pytest-advanced/hypothesis-testing-python/)
+This repo contains the sample code for the article - [Unittest vs Pytest (Review Of The 2 Most Popular Python Testing Frameworks))](https://pytest-with-eric.com/pytest-advanced/)
 
-This project explains how to Build a Shopping Cart App and apply property-based testing with Hypothesis and Pytest. -->
+
+This project explains the differences between Unittest and Pytest. 
+
+- Understand the key differences between the `unittest` and `pytest` testing frameworks
+- Choose the best Python testing framework for your project, based on needs.
+- Understand the origins, background and key philosophy behind both — `unittest` and `pytest` testing frameworks.
 
 # Requirements
-* Python (3.10.10)
+* Python (≥ 3.9)
 
 Please install the dependencies via the `requirements.txt` file using 
 ```commandline
